@@ -1,5 +1,7 @@
 # Snake
 
+![snake.gif](media/snake.gif)
+
 This is classic snake, ported from Ncurses to Webassembly with SDL and Emscripten.
 
 ## Dependencies
